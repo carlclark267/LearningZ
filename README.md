@@ -9,5 +9,5 @@ A repository for my learning across all tech.
 
 # <a name="microservices"></a>Microservices
 ## References
-* Pluralsight - https://app.pluralsight.com/library/courses/microservices-fundamentals/table-of-contents
+* [Microservices Fundamentals.](https://app.pluralsight.com/library/courses/microservices-fundamentals/table-of-contents)
 
