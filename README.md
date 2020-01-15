@@ -7,6 +7,9 @@ A repository for my learning across all tech.
 * JavaScript.
 * TypeScript.
 * Bootstrap.
+* Azure
+** Messaging
+** SQL Database
 * Kubernetes.
 
 # <a name="microservices"></a>Microservices
