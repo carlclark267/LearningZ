@@ -1,7 +1,7 @@
 # LearningThingz
 A repository for my learning across all tech.
 
-## A list of tech areas that I need to learn more about.
+## A list of tech areas to learn more about.
 * [Microservices](#microservices).
 * Docker.
 * JavaScript.
