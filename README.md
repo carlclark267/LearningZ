@@ -9,8 +9,8 @@ A repository for my learning across all tech.
 * Bootstrap.
 * React.
 * Azure
-- Messaging
-- SQL Database
+ * Messaging
+ * SQL Database
 * Kubernetes.
 
 # <a name="microservices"></a>Microservices
