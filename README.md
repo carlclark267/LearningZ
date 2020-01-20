@@ -7,7 +7,7 @@ A repository for my learning across all tech.
 * [JavaScript](#javascript).
 * TypeScript.
 * Bootstrap.
-* [Azure]
+* [Azure](#azure).
 * Docker.
 * Kubernetes.
 * Angular.
