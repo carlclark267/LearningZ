@@ -9,6 +9,7 @@ A repository for my learning across all tech.
 * Bootstrap.
 * [Azure](#azure).
 * Docker.
+* Node.
 * Kubernetes.
 * Angular.
 
