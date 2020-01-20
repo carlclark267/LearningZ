@@ -12,20 +12,20 @@ A repository for my learning across all tech.
 * Kubernetes.
 * Angular.
 
-# <a name="microservices"></a>Microservices
-## References
+## <a name="microservices"></a>Microservices
+### References
 * [Microservices Fundamentals.](https://app.pluralsight.com/library/courses/microservices-fundamentals/table-of-contents)
 
-# <a name="react"></a>React
-## Topics
+## <a name="react"></a>React
+### Topics
 * React and Flux.
 * React and Redux.
 
 ## References
+* My GitHub repo - [LearningThingz.React](https://github.com/carlclark267/LearningThingz.React)
 * [Pluralsight: React: The Big Picture](https://app.pluralsight.com/library/courses/react-big-picture/table-of-contents).
 * [Pluralsight: Building Applications with React and Flux](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents)
-* [Pluralsight: Building Applications with React and Redux] (https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
-
+* [Pluralsight: Building Applications with React and Redux](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 
 # <a name="javascript"></a>JavaScript
 ## Reference
