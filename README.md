@@ -42,8 +42,8 @@ A repository for my learning across all tech.
 
 ## <a name="react"></a>React
 ### Topics
-* [ ] React and Flux.
-* React and Redux.
+* [X] React and Flux.
+* [ ] React and Redux.
 
 ### References
 * My GitHub repo - [LearningThingz.React](https://github.com/carlclark267/LearningThingz.React)
