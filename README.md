@@ -45,6 +45,7 @@ A repository for my learning across all tech.
 * [x] React and Flux.
 * [ ] React and Redux.
 * [ ] Using TypeScript with React.
+* [ ] RxJS.
 
 ### References
 * My GitHub repo - [LearningThingz.React](https://github.com/carlclark267/LearningThingz.React).
