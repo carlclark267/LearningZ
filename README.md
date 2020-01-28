@@ -43,7 +43,7 @@ A repository for my learning across all tech.
 ## <a name="react"></a>React
 ### Topics
 * [x] React and Flux.
-* [ ] React and Redux.
+* [x] React and Redux.
 * [ ] Using TypeScript with React.
 * [ ] RxJS.
 
