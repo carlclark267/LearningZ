@@ -9,12 +9,13 @@ A repository for my learning across all tech.
 * [JavaScript](#javascript).
 * TypeScript.
 * Bootstrap.
+* HTML and CSS.
 * [Azure](#azure).
 * Docker.
 * .NET Entity Framework.
+* Angular.
 * Node.
 * Kubernetes.
-* Angular.
 
 ## Projects to build to prove.
 * Microservices.
@@ -70,6 +71,11 @@ Topics requiring a little more attention.
 * [Pluralsight: JavaScript Objects and Prototypes](https://app.pluralsight.com/library/courses/javascript-objects-prototypes/table-of-contents).
 * [Medium: Async/Await in Asynchronous Javascript](https://medium.com/@1sherlynn/async-await-in-asynchronous-javascript-f103abbecf07).
 * [Medium: JavaScript: Use Destructuring Assignment over Function Parameters](https://medium.com/swlh/javascript-use-destructuring-assignment-over-function-parameters-7d22b9f9b851).
+---
+
+## <a name="htmlandcss"></a>HTML and CSS
+### References
+* [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp).
 ---
 
 ## <a name="azure"></a>Azure
