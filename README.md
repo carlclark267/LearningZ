@@ -14,7 +14,7 @@ A repository for my learning across all tech.
 * Docker.
 * .NET Entity Framework.
 * Angular.
-* Node.
+* [Node](#node).
 * Kubernetes.
 
 ## Projects to build to prove.
@@ -90,4 +90,15 @@ Topics requiring a little more attention.
 * Event Hubs.
 * Event Grid (queues).
 
-### Reference
+### References
+
+----
+## <a name="node"></a>Node
+### Topics
+* [x] nodejs overview.
+* [x] Express.
+
+### References
+* [Pluralsight: Node.js: Getting Started](https://app.pluralsight.com/library/courses/nodejs-getting-started).
+* [Express](http://expressjs.com/)
+* [Express CORS](https://expressjs.com/en/resources/middleware/cors.html)
