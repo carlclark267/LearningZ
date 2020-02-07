@@ -38,7 +38,8 @@ A repository for my learning across all tech.
 ### References
 * [Pluralsight: Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents).
 * [Template Syntax](https://angular.io/guide/template-syntax)
-  * [[]] component to HTML.
+  * [] Bind component to HTML.
+  * () Bind HTML to component.
 
 ---
 
