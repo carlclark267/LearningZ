@@ -114,6 +114,7 @@ Topics requiring a little more attention.
 * List images - `docker images`
 * Remove an image - `docker image rm [[Name:Tag]]` or `docker image rm [[Name:Tag]] --force`
 * Build an image - `docker build --rm --file "dockerfile" --tag MyDockerImage:v1 "."`
+* Run an image - `docker run --rm -it --publish 82:80/tcp MyDockerImage:v1`
 
 ----
 ## <a name="node"></a>Node
