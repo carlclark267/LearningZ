@@ -104,7 +104,15 @@ Topics requiring a little more attention.
 
 ### References
 * [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/).
+* [Create Angular App and Deploy it to Docker Hub](https://www.youtube.com/watch?v=etA5xiX5TCA&list=PL8tjXaWtotjO8rubGqVDALeAiXKyiFyeD&index=2&t=595s).
 * Use the Visual Studio Code Docker tools - they help!
+
+### Quick Start
+* [Docker CLI documentation](https://docs.docker.com/engine/reference/run/).
+* List running containers - `docker ps`
+* Stop a running container - `docker stop [[ContainerID or Name]]`
+* List images - `docker images`
+* Remote an image = `docker image rmdocker
 
 ----
 ## <a name="node"></a>Node
