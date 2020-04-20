@@ -112,7 +112,7 @@ Topics requiring a little more attention.
 * List running containers - `docker ps`
 * Stop a running container - `docker stop [[ContainerID or Name]]`
 * List images - `docker images`
-* Remote an image = `docker image rmdocker
+* Remove an image = `docker image rm [[Name:Tag]]` or `docker image rm [[Name:Tag]] --force`
 
 ----
 ## <a name="node"></a>Node
