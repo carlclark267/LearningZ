@@ -6,7 +6,7 @@ A repository for my learning across all tech.
 ## Tech Areas to learn more about.
 * .NET Entity Framework.
 * [Angular](#angular).
-* [AWS](#aws
+* [AWS](#aws).
 * [Azure](#azure).
 * [Bootstrap](#bootstrap).
 * [Docker](#docker).
