@@ -3,9 +3,10 @@ A repository for my learning across all tech.
 
 ---
 
-## A list of tech areas to learn more about.
+## Tech Areas to learn more about.
 * .NET Entity Framework.
 * [Angular](#angular).
+* [AWS](#aws
 * [Azure](#azure).
 * [Bootstrap](#bootstrap).
 * [Docker](#docker).
@@ -40,6 +41,11 @@ A repository for my learning across all tech.
 * [Template Syntax](https://angular.io/guide/template-syntax)
   * [] Bind component to HTML.
   * () Bind HTML to component.
+
+---
+## <a name="aws"></a>AWS
+### Referemces
+*
 
 ---
 
