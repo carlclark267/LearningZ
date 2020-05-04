@@ -4,7 +4,7 @@ A repository for my learning across all tech.
 ---
 
 ## Tech Areas to learn more about.
-* .NET Entity Framework.
+* [.NET](https://github.com/carlclark267/LearningThingz/tree/master/.NET).
 * [Angular](https://github.com/carlclark267/LearningThingz/tree/master/Angular).
 * [AWS](https://github.com/carlclark267/LearningThingz/tree/master/AWS).
 * [Azure](https://github.com/carlclark267/LearningThingz/tree/master/Azure).
