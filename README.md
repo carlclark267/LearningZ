@@ -7,7 +7,7 @@ A repository for my learning across all tech.
 * .NET Entity Framework.
 * [Angular](#angular).
 * [AWS](#aws).
-* [Azure](#azure).
+* [Azure](https://github.com/carlclark267/LearningThingz/tree/master/Angular).
 * [Bootstrap](#bootstrap).
 * [Docker](#docker).
 * [HTML and CSS](#htmlandcss).
@@ -33,14 +33,6 @@ A repository for my learning across all tech.
   * TypeScript.
   * Bootstrap.
   * Docker.
-
----
-## <a name="angular"></a>Angular
-### References
-* [Pluralsight: Angular Fundamentals](https://app.pluralsight.com/library/courses/angular-fundamentals/table-of-contents).
-* [Template Syntax](https://angular.io/guide/template-syntax)
-  * [] Bind component to HTML.
-  * () Bind HTML to component.
 
 ---
 ## <a name="aws"></a>AWS
