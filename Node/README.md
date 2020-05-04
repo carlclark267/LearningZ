@@ -1,6 +1,6 @@
 # Node
 ## Topics
-* [x] nodejs overview.
+* [x] Node.js overview.
 * [x] Express.
 
 ## References
