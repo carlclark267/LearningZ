@@ -3,7 +3,7 @@ A repository for my learning across all tech.
 
 ---
 
-## Tech Areas to learn more about.
+## Tech Areas
 * [.NET](https://github.com/carlclark267/LearningThingz/tree/master/.NET).
 * [Angular](https://github.com/carlclark267/LearningThingz/tree/master/Angular).
 * [AWS](https://github.com/carlclark267/LearningThingz/tree/master/AWS).
@@ -17,8 +17,8 @@ A repository for my learning across all tech.
 * [React](https://github.com/carlclark267/LearningThingz/tree/master/React).
 * [TypeScript](https://github.com/carlclark267/LearningThingz/tree/master/TypeScript).
 
-## Projects to build to prove.
-* Microservices.
+## Projects
+### Backend
   * .NET Core WebAPI.
   * .NET Entity Framework.
   * Azure Functions (C# and Node).
@@ -27,7 +27,7 @@ A repository for my learning across all tech.
   * Azure API Management.
   * Azure Event Grid.
   * Azure DevOps.
-* Website
+### Website
   * Angular.
   * TypeScript.
   * Bootstrap.
