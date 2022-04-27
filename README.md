@@ -1,21 +1,20 @@
 # LearningThingz
-A repository for my learning across all tech.
+A repository for my learnings or at least things I would like to learn.
 
 ---
 
 ## Tech Areas
-* [.NET](https://github.com/carlclark267/LearningThingz/tree/master/.NET).
-* [Angular](https://github.com/carlclark267/LearningThingz/tree/master/Angular).
-* [AWS](https://github.com/carlclark267/LearningThingz/tree/master/AWS).
-* [Azure](https://github.com/carlclark267/LearningThingz/tree/master/Azure).
-* [Bootstrap](https://github.com/carlclark267/LearningThingz/tree/master/Bootstrap).
-* [CSS](https://github.com/carlclark267/LearningThingz/tree/master/CSS).
-* [Docker](https://github.com/carlclark267/LearningThingz/tree/master/Docker).
-* [JavaScript](https://github.com/carlclark267/LearningThingz/tree/master/JavaScript).
-* [Microservices](https://github.com/carlclark267/LearningThingz/tree/master/Microservices).
-* [Node](https://github.com/carlclark267/LearningThingz/tree/master/Node).
-* [React](https://github.com/carlclark267/LearningThingz/tree/master/React).
-* [TypeScript](https://github.com/carlclark267/LearningThingz/tree/master/TypeScript).
+* [.NET](https://github.com/carlclark267/LearningZ/tree/master/.NET).
+* [Angular](https://github.com/carlclark267/LearningZ/tree/master/Angular).
+* [AWS](https://github.com/carlclark267/LearningZ/tree/master/AWS).
+* [Azure](https://github.com/carlclark267/LearningZ/tree/master/Azure).
+* [Bootstrap](https://github.com/carlclark267/LearningZ/tree/master/Bootstrap).
+* [CSS](https://github.com/carlclark267/LearningZ/tree/master/CSS).
+* [Docker](https://github.com/carlclark267/LearningZ/tree/master/Docker).
+* [JavaScript](https://github.com/carlclark267/LearningZ/tree/master/JavaScript).
+* [Microservices](https://github.com/carlclark267/LearningZ/tree/master/Microservices).
+* [Node](https://github.com/carlclark267/LearningZ/tree/master/Node).
+* [TypeScript](https://github.com/carlclark267/LearningZ/tree/master/TypeScript).
 
 ## Projects
 ### Backend
