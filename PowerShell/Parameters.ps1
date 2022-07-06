@@ -18,7 +18,7 @@ param
     [string]$mustHave
 )
 
-# Function Defintions **************************************
+# Function Definitions *************************************
 function ValidateParameters
 {
     # Validate the required parameters and provide a friendly error message
