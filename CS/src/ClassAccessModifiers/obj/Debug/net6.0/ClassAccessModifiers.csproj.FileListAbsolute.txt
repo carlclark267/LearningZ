@@ -1,0 +1,15 @@
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\bin\Debug\net6.0\ClassAccessModifiers.exe
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\bin\Debug\net6.0\ClassAccessModifiers.deps.json
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\bin\Debug\net6.0\ClassAccessModifiers.runtimeconfig.json
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\bin\Debug\net6.0\ClassAccessModifiers.dll
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\bin\Debug\net6.0\ClassAccessModifiers.pdb
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.csproj.AssemblyReference.cache
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.AssemblyInfoInputs.cache
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.AssemblyInfo.cs
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.dll
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\refint\ClassAccessModifiers.dll
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.pdb
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ClassAccessModifiers.genruntimeconfig.cache
+C:\Development\LearningZ.CS\src\ClassAccessModifiers\obj\Debug\net6.0\ref\ClassAccessModifiers.dll

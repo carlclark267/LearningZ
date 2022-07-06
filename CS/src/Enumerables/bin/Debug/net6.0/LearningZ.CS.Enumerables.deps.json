@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LearningZ.CS.Enumerables/1.0.0": {
+        "runtime": {
+          "LearningZ.CS.Enumerables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearningZ.CS.Enumerables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

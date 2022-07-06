@@ -1,0 +1,15 @@
+C:\Development\LearningZ.CS\src\Guids\bin\Debug\net6.0\Guids.exe
+C:\Development\LearningZ.CS\src\Guids\bin\Debug\net6.0\Guids.deps.json
+C:\Development\LearningZ.CS\src\Guids\bin\Debug\net6.0\Guids.runtimeconfig.json
+C:\Development\LearningZ.CS\src\Guids\bin\Debug\net6.0\Guids.dll
+C:\Development\LearningZ.CS\src\Guids\bin\Debug\net6.0\Guids.pdb
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.csproj.AssemblyReference.cache
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.AssemblyInfoInputs.cache
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.AssemblyInfo.cs
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.csproj.CoreCompileInputs.cache
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.dll
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\refint\Guids.dll
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.pdb
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\Guids.genruntimeconfig.cache
+C:\Development\LearningZ.CS\src\Guids\obj\Debug\net6.0\ref\Guids.dll

@@ -1,0 +1,17 @@
+C:\Development\LearningZ.CS\src\JsonObject\bin\Debug\net6.0\JsonObject.exe
+C:\Development\LearningZ.CS\src\JsonObject\bin\Debug\net6.0\JsonObject.deps.json
+C:\Development\LearningZ.CS\src\JsonObject\bin\Debug\net6.0\JsonObject.runtimeconfig.json
+C:\Development\LearningZ.CS\src\JsonObject\bin\Debug\net6.0\JsonObject.dll
+C:\Development\LearningZ.CS\src\JsonObject\bin\Debug\net6.0\JsonObject.pdb
+C:\Development\LearningZ.CS\src\JsonObject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.csproj.AssemblyReference.cache
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.AssemblyInfoInputs.cache
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.AssemblyInfo.cs
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.csproj.CoreCompileInputs.cache
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.csproj.CopyComplete
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.dll
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\refint\JsonObject.dll
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.pdb
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\JsonObject.genruntimeconfig.cache
+C:\Development\LearningZ.CS\src\JsonObject\obj\Debug\net6.0\ref\JsonObject.dll

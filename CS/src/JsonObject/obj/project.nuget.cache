@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bwh9kTXkswP3/8uu59Mp8kwIgfVgvpMOszJhkkf/ooRXjNePBmDEcKLQzkAWzTgWhtP4QfWIZfsPHf5aZ6DcGg==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\LearningZ.CS\\src\\JsonObject\\JsonObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
