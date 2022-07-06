@@ -1,5 +1,5 @@
 # LearningThingz
-A repository for my learnings or at least things I would like to learn.
+A repository for my learnings and samples for the things I am learning and want to learn.
 
 ---
 
