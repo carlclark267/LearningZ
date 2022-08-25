@@ -1,16 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using LearningZ.CS.Enumerables;
 
-
 class Program
 {
     static void Main(string[] args)
     {
         PrintHeader("LearningZ.CS.Enumerables Start");
-     
+
         PrintPeople();
         PrintPeopleWithYield();
         PrintPersonByFirstNameWithYield("R2!");
+        PrintPeopleWhereClause();
+        PrintPeopleChainedWhereClause();
         RemoveOneListFromAnother();
         FirstOrDefaultExample();
         FirstOrDefaultEmptyList();
@@ -30,6 +31,28 @@ class Program
         PrintDividingLine();
         Console.WriteLine($"{header}");
         Console.WriteLine($"{string.Join("", Enumerable.Repeat('-', header.Length))}");
+    }
+
+    private static void PrintPeopleWhereClause()
+    {
+        PrintHeader("PrintPeopleWhereClause()");
+        var people = People.GetPeople().Where(x => x.LastName == "Skywalker");
+
+        foreach (var person in people)
+        {
+            Console.WriteLine($"{person.FirstName} {person.LastName} = {person.Age}");
+        }
+    }
+
+    private static void PrintPeopleChainedWhereClause()
+    {
+        PrintHeader("PrintPeopleChainedWhereClause()");
+        var people = People.GetPeople().Where(x => x.LastName == "Skywalker").Where(x => x.Age <= 30);
+
+        foreach (var person in people)
+        {
+            Console.WriteLine($"{person.FirstName} {person.LastName} = {person.Age}");
+        }
     }
 
     /// <summary>
@@ -161,9 +184,9 @@ class Program
     public static void RemoveOneListFromAnother()
     {
         PrintHeader("RemoveOneListFromAnother()");
-        
+
         var people = People.GetPeople();
-        
+
         var listOfLastNames = new List<string>();
         listOfLastNames.Add("Skywalker");
         listOfLastNames.Add("Vader");

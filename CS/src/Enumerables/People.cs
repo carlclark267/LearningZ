@@ -12,25 +12,27 @@ namespace LearningZ.CS.Enumerables
         {
             Console.WriteLine($"People.GetPeople()");
             List<Person> people = new();
-            people.Add(new Person("Luke", "Skywalker"));
-            people.Add(new Person("Han", "Solo"));
-            people.Add(new Person("R2", "D2"));
-            people.Add(new Person("Darth", "Vader"));
-            people.Add(new Person("C3", "PO"));
-            people.Add(new Person("Anakin", "Skywalker"));
+            people.Add(new Person("Luke", "Skywalker", 30));
+            people.Add(new Person("Han", "Solo", 30));
+            people.Add(new Person("R2", "D2", 80));
+            people.Add(new Person("Darth", "Vader", 100));
+            people.Add(new Person("C3", "PO", 90));
+            people.Add(new Person("Anakin", "Skywalker", 35));
+            people.Add(new Person("Leia", "Skywalker", 30));
             return people;
         }
 
         public static IEnumerable<Person> GetPeopleWithYield()
         {
             Console.WriteLine($"People.GetPeopleWithYield()");
-            yield return new Person("Luke", "Skywalker");
-            yield return new Person("Han", "Solo");
-            yield return new Person("R2", "D2");
-            yield return new Person("Darth", "Vader");
-            yield return new Person("C3", "PO");
-            yield return new Person("Thna", "Moo");
-            yield return new Person("Anakin", "Skywalker");
+            yield return new Person("Luke", "Skywalker", 30);
+            yield return new Person("Han", "Solo", 30);
+            yield return new Person("R2", "D2", 80);
+            yield return new Person("Darth", "Vader", 100);
+            yield return new Person("C3", "PO", 90);
+            yield return new Person("Thna", "Moo", 5);
+            yield return new Person("Anakin", "Skywalker", 35);
+            yield return new Person("Leia", "Skywalker", 30);
         }
 
         public static IEnumerable<Person>? GetPeopleNullList()
